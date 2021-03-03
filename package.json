@@ -1,0 +1,9 @@
+{
+  "name": "kbs",
+  "version": "1.0.0",
+  "description": "Keyboard shortcuts",
+  "main": "index.js",
+  "repository": "https://github.com/TGIFelix/kbs.git",
+  "author": "Felix Swinkes <tgifelix@icloud.com>",
+  "license": "MIT"
+}
