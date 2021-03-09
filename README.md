@@ -1,2 +1,3 @@
 # kbs
-Keyboard shortcuts
+
+Keyboard shortcuts CLI
