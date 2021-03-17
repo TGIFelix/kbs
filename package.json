@@ -5,5 +5,20 @@
   "main": "index.js",
   "repository": "https://github.com/TGIFelix/kbs.git",
   "author": "Felix Swinkes <tgifelix@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "commander": "^7.1.0",
+    "exec-sh": "^0.3.4",
+    "figlet": "^1.5.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0"
+  }
 }
